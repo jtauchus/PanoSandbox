@@ -80,7 +80,11 @@
       <hotspot title="" skinid="ht_node" target="" pan="-311.28" url="{node4}" id="Point02" tilt="-4.83" description=""/>
       <hotspot title="" skinid="ht_node" target="" pan="-310.8" url="{node5}" id="Point03" tilt="-16.02" description=""/>
     </hotspots>
-    <media/>
+    <media>
+      <image handcursor="0" pan="109.242" hidepinned="0" fov="19.846" width="1918" popoutscaling="100" clickmode="0" stretch="0.914" tilt="29.066" roty="31.581" height="5000" rotx="28.793" rotz="87.856" popbackmode="0" id="Element01">
+        <source url="media/d60634da-c578-43ea-be49-f56441823a12.png"/>
+      </image>
+    </media>
     <transition enabled="1" zoomin="0" blendtime="1" zoomfov="40" zoomout="0" delay="none" zoomafteroutfov="40" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" zoomafterinfov="140"/>
     <animation clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" hideabout="0" lockedmouse="0" rubberband="0" zoomcentercursor="1" simulatemass="1" invertwheel="0" sensitivity="8" contextvr="1"/>
