@@ -23,7 +23,7 @@
       <hotspot title="" skinid="ht_node" target="" pan="-126.39" url="{node7}" id="Point03" tilt="-3.25" description=""/>
     </hotspots>
     <media>
-      <video loop="1" handcursor="0" fov="46.000" width="1920" tiltsize="10.000" popoutscaling="100" tilt="5.150" rotz="0.840" startmutedmobile="0" nodechangekeep="0" pansize="10.000" pan="-320.480" hidepinned="0" level="1.000" mode="3" clickmode="4" stretch="1.364" height="1080" roty="-7.640" field="90.000" rotx="1.640" popbackmode="0" ambientlevel="0.000" id="Element01">
+      <video loop="1" handcursor="1" fov="46.000" width="1920" tiltsize="10.000" popoutscaling="100" tilt="5.150" rotz="0.840" startmutedmobile="0" nodechangekeep="0" pansize="10.000" pan="-320.480" hidepinned="0" level="1.000" mode="3" clickmode="0" stretch="1.364" height="1080" roty="-7.640" field="90.000" rotx="1.640" popbackmode="0" ambientlevel="0.000" id="Element01">
         <source url="media/Energy Center Digital Twin Data.mp4"/>
       </video>
       <lensflare alpha="80.000" color="0xffffff" type="1" pan="-354.250" id="Lensflare01" tilt="15.650" blinding="50.000"/>
