@@ -84,6 +84,7 @@
       <image handcursor="0" pan="109.242" hidepinned="0" fov="19.846" width="1918" popoutscaling="100" clickmode="0" stretch="0.914" tilt="29.066" roty="31.581" height="5000" rotx="28.793" rotz="87.856" popbackmode="0" id="Element01">
         <source url="media/d60634da-c578-43ea-be49-f56441823a12.png"/>
       </image>
+      <webelement handcursor="0" permeable="0" fov="30.000" width="560" popoutscaling="100" tilt="2.980" rotz="0.000" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TM1D7sAYu6U?si=PCkT0R6uqXDRePzI&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" pan="-60.810" hidepinned="0" clickmode="0" stretch="1.000" height="315" roty="0.000" rotx="0.000" popbackmode="0" id="Element02"/>
     </media>
     <transition enabled="1" zoomin="0" blendtime="1" zoomfov="40" zoomout="0" delay="none" zoomafteroutfov="40" softedge="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" zoomafterinfov="140"/>
     <animation clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
